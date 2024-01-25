@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "RPI")(type "Legacy")(uri "{KIPRJMOD}/kicad_libs/RPi_Pico.lib")(options "")(descr ""))
+  (lib (name "Snubber")(type "KiCad")(uri "${KIPRJMOD}/kicad_libs/Snubber.kicad_sym")(options "")(descr ""))
+  (lib (name "WE Jack")(type "KiCad")(uri "{KIPRJMOD}/kicad_libs/694106301002.kicad_sym")(options "")(descr ""))
+)
